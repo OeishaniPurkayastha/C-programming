@@ -7,7 +7,8 @@ int main()
     printf("Choose a number (1-5): ");
     scanf("%d", &choice);
 
-    switch (choice) {
+    switch (choice) 
+    {
         case 1:
             printf("You chose One.\n");
             break;
