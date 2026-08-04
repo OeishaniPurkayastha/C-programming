@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int choice;
 
     printf("1. Balance\n2. Deposit\n3. Withdraw\n4. Exit\n");
